@@ -4,7 +4,8 @@ let navbar = document.querySelector('.navbar')
 
 document.addEventListener("DOMContentLoaded", function () {
       var typed = new Typed("#multiple-text", {
-        strings: ["Frontend Developer", "Data Analyst", "Educator"],
+        // strings: ["Software Developer", "Data Analyst", "Educator"],
+        strings: ["Software Developer", "Software Developer", "Software Developer"],
         typeSpeed: 70,
         backSpeed: 70,
         backDelay: 1000,
@@ -75,3 +76,4 @@ ScrollReveal().reveal('.home-contact p, .about-content', {origin: 'right'});
 //     loop: true
 // });
 
+/*------------------JNFVJIOFVNTGNKTFJMK----------------*/
